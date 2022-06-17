@@ -1,0 +1,23 @@
+<?xml version="1.0" ?>
+<?xml-stylesheet type="text/xsl" href="employee.xsl"?>
+<class>
+    <employee id="001">
+        <firstname>top 1</firstname>
+        <lastname>wibu</lastname>
+        <nickname>WibuOneTop</nickname>
+        <salary>40000</salary>
+    </employee>
+    <employee id="024">
+        <firstname>anime</firstname>
+        <lastname>wibu</lastname>
+        <nickname>tao la wibu</nickname>
+        <salary>50000</salary>
+    </employee>
+    <employee id="056">
+        <firstname>fan</firstname>
+        <lastname>MU</lastname>
+        <nickname>tao la fan MU</nickname>
+        <salary>68000</salary>
+    </employee>
+
+</class>

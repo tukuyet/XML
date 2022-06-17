@@ -1,0 +1,38 @@
+CodeLean
+{
+    font-size:80%;
+    margin:0.5cm;
+    font-family: Verdana;
+    display: block;
+}
+codeleanm_section{
+    display: block;
+    border: 1px solid silver;
+    margin: 0.5cm;
+    padding: 0.5cm;
+    background-color:whitesmoke ;
+}
+title{
+    display: block;
+    font-weight: bolder;
+    text-align: center;
+    font-size:30px;
+    background-color: green;
+    color:white;
+}
+name,topic1,topic2,topic3,topic4{
+    display:block;
+    text-align:center;
+}
+topic1{
+    color: green;
+}
+topic2{
+    color: brown;
+}
+topic3{
+    color: blue;
+}
+topic4{
+    color: orange;
+}
